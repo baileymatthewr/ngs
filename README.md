@@ -12,6 +12,8 @@
 * Try and use this as much as possible, because of consistency with the 'this' keyword
 * It is also more consistent with functional programming
 
-## Object Literals
-* 
+## Why NPM?
+1. Share code with other developers
+2. Re-use your own code in other projects
+3. Use code written by others in your projects
 
